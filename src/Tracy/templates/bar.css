@@ -147,6 +147,13 @@ body #tracy-debug {
 	margin-right: 3px;
 }
 
+#tracy-debug-bar .tracy-debug-bar-icon {
+	width: 16px;
+	position: relative;
+	top: -1px;
+	margin-right: 3px;
+}
+
 #tracy-debug-bar li a {
 	color: #000;
 	display: block;
